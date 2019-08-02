@@ -1,0 +1,9 @@
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\NorthwindKurumsal2.Interfaces.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\NorthwindKurumsal2.Interfaces.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\NorthwindKurumsal2.Entities.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\EntityFramework.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\NorthwindKurumsal2.Entities.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\bin\Debug\EntityFramework.xml
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\obj\Debug\NorthwindKurumsal2.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\obj\Debug\NorthwindKurumsal2.Interfaces.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Interfaces\obj\Debug\NorthwindKurumsal2.Interfaces.pdb

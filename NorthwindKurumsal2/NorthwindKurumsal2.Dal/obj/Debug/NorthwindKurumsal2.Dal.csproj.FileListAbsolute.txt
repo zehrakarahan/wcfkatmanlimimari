@@ -1,0 +1,12 @@
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\NorthwindKurumsal2.Dal.dll.config
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\NorthwindKurumsal2.Dal.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\NorthwindKurumsal2.Dal.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\EntityFramework.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\NorthwindKurumsal2.Entities.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\NorthwindKurumsal2.Entities.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\EntityFramework.xml
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\obj\Debug\NorthwindKurumsal2.Dal.csprojResolveAssemblyReference.cache
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\obj\Debug\NorthwindKurumsal2.Dal.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.Dal\obj\Debug\NorthwindKurumsal2.Dal.pdb

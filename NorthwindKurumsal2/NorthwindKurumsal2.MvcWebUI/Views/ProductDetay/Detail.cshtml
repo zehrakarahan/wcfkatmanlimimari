@@ -1,0 +1,21 @@
+﻿@model NorthwindKurumsal2.Entities.Product
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="margin-left:70px">
+    <table>
+        <tr>
+            <td>Urun Adi @Model.ProductName</td>
+            </tr>
+        <tr>
+            <td>Urun Fiyatı @Model.Price</td>
+        </tr>
+        <tr>
+            <td>Urun Stok Adeti @Model.InStock </td></tr>
+            <tr><td>Urun Kategori Id @Model.CategoryId </td></tr>
+        
+        
+</table>
+</div>
+

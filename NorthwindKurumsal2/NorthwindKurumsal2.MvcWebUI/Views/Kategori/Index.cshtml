@@ -1,0 +1,11 @@
+﻿@model List<NorthwindKurumsal2.Entities.Category>
+
+
+@foreach (var item in Model)
+{
+    @Html.RouteLink(item.CategoryName,new { item=item.CategoryId ,Controller = "Product", Action = "Index" }, new { @style="color:#000;"} );
+    <hr />
+   
+  
+    
+}

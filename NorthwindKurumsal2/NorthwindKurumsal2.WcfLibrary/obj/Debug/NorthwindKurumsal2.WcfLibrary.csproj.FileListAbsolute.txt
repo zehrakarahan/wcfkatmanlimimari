@@ -1,0 +1,16 @@
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.WcfLibrary.dll.config
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.WcfLibrary.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.WcfLibrary.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\obj\Debug\NorthwindKurumsal2.WcfLibrary.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\obj\Debug\NorthwindKurumsal2.WcfLibrary.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.BII.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Dal.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Entities.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Interfaces.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\EntityFramework.dll
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.BII.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Dal.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Entities.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\NorthwindKurumsal2.Interfaces.pdb
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\bin\Debug\EntityFramework.xml
+c:\users\zehra\onedrive\belgeler\visual studio 2015\Projects\NorthwindKurumsal2\NorthwindKurumsal2.WcfLibrary\obj\Debug\NorthwindKurumsal2.WcfLibrary.csprojResolveAssemblyReference.cache

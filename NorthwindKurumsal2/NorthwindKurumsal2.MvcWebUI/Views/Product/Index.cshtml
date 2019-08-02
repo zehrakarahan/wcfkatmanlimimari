@@ -1,0 +1,44 @@
+﻿@model PagedList.IPagedList<NorthwindKurumsal2.Entities.Product>
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<style type="text/css">
+    .kolon {
+        float: left;
+        border: 1px solid red;
+        padding: 10px;
+        margin: 10px;
+    }
+</style>
+    <div>
+        @foreach (var item in Model)
+        {
+            <div class="item">
+                <h4>@item.ProductName</h4>
+                <h4>@item.Price</h4>
+            </div>
+
+            using (Html.BeginForm("AddToCart", "Cart"))
+                {
+                @Html.Hidden("productId", item.ProductId )
+
+                <input type="submit" value="Add to Cart" />
+                }
+                <a href="/ProductDetay/Detail/@item.ProductId" class="btn btn-success">İncele</a>
+                <a href="#" class="btn btn-default">Sepete At</a>
+            <div>
+                <hr width="1000" class="ali" color="#0000F8" size="10" />
+            </div>
+           
+        }
+
+    @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index",new { page }));
+    </div>
+
+
+
+

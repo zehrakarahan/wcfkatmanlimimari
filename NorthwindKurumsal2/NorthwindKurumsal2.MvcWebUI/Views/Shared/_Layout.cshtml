@@ -1,0 +1,55 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Northwind</title>
+    <style type="text/css">
+        .sol {
+            width: 15%;
+            float: left;
+        }
+        .sag {
+            width:84%;
+            
+            float: right;
+        }
+      
+    </style>
+        <link href="~/Content/PagedList.css" rel="stylesheet" />
+        <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+   
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container" style="margin:0px 7px; padding:0px;">
+            <div class="navbar-header" >
+               
+                @Html.ActionLink("Northwind Projesine Hosgeldiniz", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+           
+        </div>
+    </div>
+       <table  >
+          
+           <tr>
+               <td class="sol"> @{Html.RenderAction("Index", "Kategori");}</td>
+               <td class="sag">@RenderBody()</td>
+           </tr>
+       </table>
+       
+      
+    
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
